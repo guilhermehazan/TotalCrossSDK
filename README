@@ -1,0 +1,16 @@
+Thank you for your interest in TotalCross. If you don’t know where to start, here’s a quick overview
+of the platform:
+Supported Platforms
+- Android 2.3.3 and above (API level 10).
+- iOS 5.0 and above.
+- Windows XP and above.
+- Linux 32 bits (we only assure that it works on Debian distribution).
+- Browser as Java applet (JDK 1.1 and above). Note that in this case you must enable some permission so that you can use files and, consequently, Litebase.
+- Java SE.
+- Windows Phone 8
+
+TotalCross applications are developed almost exactly like Java applications, so anyone familiar with
+Java should be able to start small TotalCross applications in a few minutes.
+
+For an comprehensive reference, see the TotalCross Companion in the SDK 
+or the Javadoc at http://doc.totalcross.com
